@@ -60,5 +60,4 @@ The model should have some form of Interpretability when predicting recommendati
 
 Minimize the RMSE and Precision@10 value of each Content Based Filtering and Collaborative Filtering Model that will be combined to build Hybrid Recommendation System Model.
 
-## 3. Deployment Video
-https://www.youtube.com/watch?v=-lr8P0oduyA
+
